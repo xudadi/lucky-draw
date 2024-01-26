@@ -1,6 +1,6 @@
 ## 年会抽奖
 
-[演示地址](https://vitozyf.github.io/lucky-draw/index.html#/?tdsourcetag=s_pctim_aiomsg)
+[演示地址](https://xudadi.github.io/luckydraw/index.html)
 
 ## 使用说明
 
@@ -49,14 +49,6 @@
 ## windows 软件版本
 
 - 本抽奖程序的 windows 软件版本下载[安装包](https://github.com/vitozyf/lucky-draw/releases)
-
-## Donation
-
-如果这个开源项目对您有帮助，请作者喝杯咖啡吧
-
-Email: vito.z@qq.com
-
-![payimg](./public/pay.png)
 
 ## License
 
